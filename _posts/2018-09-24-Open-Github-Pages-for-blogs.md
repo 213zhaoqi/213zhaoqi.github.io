@@ -2,8 +2,8 @@
 layout:     post
 title:      Open Github Pages for blogs
 subtitle:   Others
-date:       2018-09-24
-author:     Xin YAO
+date:       2019-02-13
+author:     Zhaoqi
 catalog: true
 tags:
     - git
@@ -22,9 +22,9 @@ img 存放图片的文件夹
 # Sidebar settings
 sidebar: true
 
-sidebar-about-description: 
+sidebar-about-description:
 
-sidebar-avatar: 
+sidebar-avatar:
 
 
 # Reference

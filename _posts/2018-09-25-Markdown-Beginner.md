@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      Markdown Beginner
-subtitle:   
-date:       2018-09-25
-author:     Xin YAO
+subtitle:
+date:       2019-02-13
+author:     Zhaoqi
 catalog: true
 tags:
     - Markdown
@@ -180,7 +180,7 @@ _content_
 
 <font face="微软雅黑">我是微软雅黑</font>
 
-<font face="Verdana">I like Verdana format</font> 
+<font face="Verdana">I like Verdana format</font>
 
 # Reference
 [1]:[Markdown: Syntax](https://daringfireball.net/projects/markdown/syntax)
